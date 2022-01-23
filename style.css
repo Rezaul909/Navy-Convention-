@@ -1,0 +1,9 @@
+/* google fonts link 
+========================== */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+/* common css 
+========================== */
+body{
+    font-family: 'Lora', serif;
+}
