@@ -19,6 +19,9 @@ body{
 .bg-footer{
     background-color:#070c16;
 }
+.bg-btn{
+    background-color:#CC0000;
+}
 
 @media only screen and (max-width:688px ){
 
