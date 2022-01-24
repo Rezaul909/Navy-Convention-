@@ -15,18 +15,17 @@ body{
 }
 .bg-popular{
     background-color:#3F87F5;
+    transform:scaleY(1.05);
 }
 .bg-footer{
     background-color:#070c16;
 }
-.bg-btn{
+.bg-subscribe{
     background-color:#CC0000;
 }
 
 @media only screen and (max-width:688px ){
-
     .carousel-container{
         height: 400px;
-    }
-    
+    }  
 }
