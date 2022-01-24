@@ -15,5 +15,7 @@ body{
 }
 .bg-popular{
     background-color:#3F87F5;
-    transform: scaleY(1.1);
+}
+.bg-footer{
+    background-color:#070c16;
 }
